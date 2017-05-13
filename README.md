@@ -4,7 +4,7 @@ My attempt at Kaggle's House Prices competition of predicting House sale prices 
 
 Repository includes:
 
-  1. data analysis code in R
+  1. Data analysis code in R
   
   2. House Prices training set
   
