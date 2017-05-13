@@ -6,7 +6,7 @@ Repository includes:
 
   1. Data analysis code in R
   
-  2. Data description variables
+  2. Data description of variables
   
   3. House Prices training set
   
