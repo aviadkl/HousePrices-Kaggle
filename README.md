@@ -6,6 +6,8 @@ Repository includes:
 
   1. Data analysis code in R
   
-  2. House Prices training set
+  2. Data description variables
   
-  3. House Prices test set
+  3. House Prices training set
+  
+  4. House Prices test set
